@@ -1,4 +1,4 @@
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f609397-777c-4859-a466-8b4ca4324ec6" />
 # Ex 1:Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
@@ -16,6 +16,17 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 Add Code here
-
+```
+a=(0==True)
+b=(False==False)
+c=True+True
+d=False+9
+print("a is",a)
+print("b is",b)
+print("c:",c)
+print("d:",d)
+```
 ## Output
+<img width="1920" height="1080" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/b83779ff-a78d-472d-891a-5abde7407070" />
+
 ## Result
