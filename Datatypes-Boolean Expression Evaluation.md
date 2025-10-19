@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f609397-777c-4859-a466-8b4ca4324ec6" />
 # Ex 1:Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
